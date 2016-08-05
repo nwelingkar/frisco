@@ -1,0 +1,98 @@
+.logo {
+    max-width: 100px;
+    padding: 10px 0px 0px 0px;
+}
+
+.small-logo {
+    max-width: 30px;
+    padding: 80px 0px 10px 0px;
+}
+
+.left {
+    float: left;
+}
+
+#header {
+    padding: 15px 0px 15px 0px;
+    max-width: 813px;
+}
+
+.nav-link {
+    padding: 25px 0px 25px 0px;
+    text-align: right;
+}
+
+a:link {
+    color: #555555;
+    font-family: Didot, Garamond, Times, serif;
+}
+
+a:visited {
+    color: #555555;
+}
+
+div a:hover {
+    color: #000000;
+    text-decoration: none;
+}
+
+#home, #musings, #contact, #projects, .post {
+    height: 100%;
+    background-color: #abc08c;
+    font-size: 15px;
+}
+
+div {
+    font-family: Futura Light, Avenir, sans-serif;
+    color: #ffffff;
+    display: block;
+}
+
+#email, #address {
+    font-family: Didot, Garamond, Times, serif;
+    font-size: 20px;
+}
+
+#bio, #contact-info {
+    padding: 195px 0px 25px 0px;
+}
+
+#bio-name, #contact-head, #post-title {
+    font-family: Didot, Garamond, Times, serif;
+    font-size: 35px;
+    color: #555555
+}
+
+#home-img {
+    float: left;
+}
+
+#profile {
+    float: left;
+}
+
+.img-container {
+    width: 200px;
+    height: 200px;
+    overflow: hidden;
+    padding-bottom: 3px;
+}
+
+.img-container img {
+    height: 100%;
+}
+
+#intro, #info {
+    font-size: 15px;
+    text-align: left;
+    padding: 25px;
+    max-width: 813px;
+}
+
+.grid {
+    max-width: 813px;
+}
+
+.container {
+    max-width: 843px;
+}
